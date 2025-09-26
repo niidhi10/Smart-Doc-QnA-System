@@ -1,0 +1,11 @@
+openai
+langchain
+faiss-cpu
+pypdf
+unstructured
+python-dotenv
+tqdm
+sentence-transformers
+streamlit
+fastapi
+uvicorn
